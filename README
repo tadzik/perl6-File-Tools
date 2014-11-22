@@ -1,5 +1,2 @@
-This Perl 6 distribution contains the following modules:
-
-File::Copy
-File::Find
-File::Mkdir
+This module is long dead. The useful stuff from it got harvested into
+https://github.com/tadzik/File-Find/ and https://github.com/tadzik/Shell-Command.
